@@ -1,4 +1,4 @@
-package com.example.jellybeannotifications;
+package es.jmanzano.jelly.notifications;
 
 import android.app.Activity;
 import android.app.Notification;
