@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.jellybeannotifications;
+package es.jmanzano.jelly.notifications;
 
 public final class R {
     public static final class attr {

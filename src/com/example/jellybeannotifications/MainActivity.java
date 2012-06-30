@@ -10,6 +10,7 @@ import android.content.Intent;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.view.Menu;
+import es.jmanzano.jelly.notifications.R;
 
 public class MainActivity extends Activity {
 
