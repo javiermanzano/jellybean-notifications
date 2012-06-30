@@ -1,8 +1,11 @@
 <resources>
-
     <string name="app_name">JellyBeanNotifications</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="simple_notification">Simple notification</string>
+    <string name="big_picture_notification">Big picture notification</string>
+    <string name="big_text_notification">Big text notification</string>
+    <string name="inbox_notification">Inbox notification</string>
 
 </resources>
